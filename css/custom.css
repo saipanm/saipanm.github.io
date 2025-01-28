@@ -67,5 +67,7 @@ section.header .header-content .container{
 }
 
 .btn-download {
-
+border-radius: 30px;
+border: 3px solid #F5F5F5;
+background: #E75201;
 }
